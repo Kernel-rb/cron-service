@@ -13,8 +13,7 @@ Ce projet simule un service CRON en utilisant NestJS, PostgreSQL, Prisma, et Neo
 
 1. Clonez le dépôt :
    ```bash
-   git clone <url-du-depot>
-   cd <nom-du-dossier>
+   git clone https://github.com/Kernel-rb/cron-service.git && cd cron-service
     ``` 
 2. Installez les dépendances :
     ```bash
